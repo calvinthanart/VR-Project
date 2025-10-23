@@ -104,7 +104,11 @@ ExportedObj/
 *.asmdef.meta
 
 *.mdb.meta 
+<<<<<<< HEAD
+/libburst-llvm-19.dylib
+=======
 *.dylib
+>>>>>>> parent of 83e98a6d (fix the thing)
 
   
 
